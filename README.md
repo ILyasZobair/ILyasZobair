@@ -9,7 +9,7 @@ I'm an IT professional with hands-on experience supporting enterprise infrastruc
 
 Currently, I work in enterprise IT while building my networking expertise through Cisco Packet Tracer labs, Network+ studies, Windows Server projects, Linux administration, and large-scale infrastructure deployments.
 
-## Objective
+## 🎯 Objective
 
 This GitHub documents my journey toward becoming a Network Engineer.
 
@@ -31,7 +31,7 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
+| Domain controller / DNS configuration         | <a href="https://github.com/TushanDo/WinServerA-B">WinServerA-B Lab</a>|
 | DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
 | IE200 Capstone Project        | <a href="https://github.com/TushanDorsey/Windows-Server-2022-Project/blob/main/README.md)">Capstone Project</a>|
 | Network-Engineering-Labs |  <a href="https://github.com/TushanDorsey/Network-Engineering-Labs-CCNA-2026">Labs</a>|
@@ -40,7 +40,7 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 
 ## Tools
 
-### Network & Infrastructure
+### 🌐 Network & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/-SolarWinds-FF6C00?&style=for-the-badge&logo=Solarwinds&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cisco_AnyConnect-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
@@ -96,7 +96,7 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
   </a>
 </div>
 
-## Projects
+## 🗂️ Projects
 
 - **Network+ Practice and Troubleshooting Labs**  
   Completed Network+ practical labs focusing on network troubleshooting, routing, switching, and security fundamentals.
@@ -117,3 +117,8 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+### 📣 My Philosophy:
+> _"As a Chief of Digital Defense, I believe the strongest firewalls are built with trust, curiosity, and relentless innovation."_
+
+Thanks for stopping by! 💖 Drop a ⭐ if you find my work interesting or helpful!
