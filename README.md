@@ -107,6 +107,11 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 - **Linux Distribution Installations on VirtualBox**  
   Installed and configured multiple Linux distributions including Kali Linux, Parrot OS, and Arch Linux for penetration testing and system administration practice.
 
+
+### 🚀 My GitHub Stats:
+
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=21Lalit&show_icons=true&theme=radical)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
