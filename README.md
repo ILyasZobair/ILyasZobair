@@ -9,6 +9,15 @@ I'm an IT professional with hands-on experience supporting enterprise infrastruc
 
 Currently, I work in enterprise IT while building my networking expertise through Cisco Packet Tracer labs, Network+ studies, Windows Server projects, Linux administration, and large-scale infrastructure deployments.
 
+## 🎯 About Me
+
+- 🎓 IT Infrastructure Student
+- 🌐 Learning computer networking and TCP/IP
+- 🐧 Exploring Linux system administration
+- 🖥️ Interested in servers, Windows Server, and IT infrastructure
+- 🧪 Building practical home labs and documenting my progress
+- 📚 Always learning and improving my technical skills
+- 
 ## 🎯 Objective
 
 This GitHub documents my journey toward becoming a Network Engineer.
@@ -80,7 +89,8 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
   <img src="https://img.shields.io/badge/-MS_Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
-## Certifications
+
+### Certifications
 <div>
   <a href="https://www.credly.com/badges/a6da1251-84aa-46bf-9266-72d9852d607e/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+"/>
@@ -100,12 +110,13 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 
 - **Network+ Practice and Troubleshooting Labs**  
   Completed Network+ practical labs focusing on network troubleshooting, routing, switching, and security fundamentals.
-
+| Network Fundamentals Lab | IP addressing, subnetting, DNS, and DHCP | Planned |
 - **VirtualBox VM Deployment: Windows Server Domain Controller**  
   Deployed Windows Server virtual machines on VirtualBox, configured a domain controller, created and managed a domain, and set up DNS services.
-
+| IT Infrastructure Home Lab | Virtual machines, servers, and network design | Planned |
 - **Linux Distribution Installations on VirtualBox**  
   Installed and configured multiple Linux distributions including Kali Linux, Parrot OS, and Arch Linux for penetration testing and system administration practice.
+| Linux Administration Lab | Linux commands, users, permissions, and services | Planned |
 
 
 ### 🚀 My GitHub Stats:
@@ -122,3 +133,4 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 > _"As a Chief of Digital Defense, I believe the strongest firewalls are built with trust, curiosity, and relentless innovation."_
 
 Thanks for stopping by! 💖 Drop a ⭐ if you find my work interesting or helpful!
+⭐ *Learning by doing, one lab at a time.*
