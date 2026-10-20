@@ -9,7 +9,7 @@ I'm an IT professional with hands-on experience supporting enterprise infrastruc
 
 Currently, I work in enterprise IT while building my networking expertise through Cisco Packet Tracer labs, Network+ studies, Windows Server projects, Linux administration, and large-scale infrastructure deployments.
 
-## 🎯 About Me
+## 👨🏻‍💻 About Me
 
 - 🎓 IT Infrastructure Student
 - 🌐 Learning computer networking and TCP/IP
