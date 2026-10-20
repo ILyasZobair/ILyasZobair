@@ -37,17 +37,7 @@ Enterprise Network Troubleshooting
 
 Here you'll find networking labs, infrastructure projects, Packet Tracer simulations, Windows Server deployments, Linux projects, cloud networking exercises, and technical documentation that showcase my progression toward Network Engineering and Infrastructure roles.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Domain controller / DNS configuration         | <a href="https://github.com/TushanDo/WinServerA-B">WinServerA-B Lab</a>|
-| DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
-| IE200 Capstone Project        | <a href="https://github.com/TushanDorsey/Windows-Server-2022-Project/blob/main/README.md)">Capstone Project</a>|
-| Network-Engineering-Labs |  <a href="https://github.com/TushanDorsey/Network-Engineering-Labs-CCNA-2026">Labs</a>|
-| TBD                  | TDB|
-| TBD | TDB|
-
-## Tools
+## 🛠️ Tools
 
 ### 🌐 Network & Infrastructure
 <div>
@@ -90,7 +80,7 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
   <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
 
-### Certifications
+### 🎓 Certifications
 <div>
   <a href="https://www.credly.com/badges/a6da1251-84aa-46bf-9266-72d9852d607e/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+"/>
